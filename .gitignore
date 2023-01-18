@@ -1,0 +1,10 @@
+.Rhistory
+[0-9]*
+temp
+tmp
+.tif
+*~
+*offline
+data/CHM_rasters/*.tif
+data/buildingFootprints/*
+!data/buildingFootprints/README.txt
