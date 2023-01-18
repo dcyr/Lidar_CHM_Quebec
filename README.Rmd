@@ -16,7 +16,7 @@ This folder contains information about lidar-derived data products derived from 
 
 The year of LiDAR data acquisition is illustrated below. ([Shapefile available here][01])
 
-![](./fig/Acquisition_produits_derives_LiDAR.jpg){width=100%}
+![](./fig/Acquisition_produits_derives_LiDAR.jpg)
 
 ### Content
 
@@ -25,7 +25,7 @@ The year of LiDAR data acquisition is illustrated below. ([Shapefile available h
 * *[./scripts/][04]* - A few R scripts that were used to download files from Quebec's data portal. Some error handling/recovery had to be implemented. You can also use your own scripts in combinations with the *[CHM_URL-list.csv][05]* file.
 
 
-![Current sample of CHM raster files](./fig/CHM_sample.jpg){width=75%}
+![Current sample of CHM raster files](./fig/CHM_sample.jpg)
 
 
 #### Additional info
