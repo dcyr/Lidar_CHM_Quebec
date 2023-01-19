@@ -26,7 +26,9 @@ The year of LiDAR data acquisition is illustrated below. ([Shapefile available h
 * *[./scripts/][04]* - A few R scripts that were used to download files from Quebec's data portal. Some error handling/recovery had to be implemented. You can also use your own scripts in combinations with the *[CHM_URL-list.csv][05]* file.
 
 
-![Current sample of CHM raster files](./fig/CHM_sample.jpg)
+#### Current sample of CHM raster files 
+
+![](./fig/CHM_sample.jpg)
 
 
 #### Additional info
@@ -44,7 +46,7 @@ It DOES NOT cover the entire landbase, although significant areas are covered.
 More detailed vectorial data produced by municipalities exist and are available on the data portal
 of the Province of Quebec, but it has not been gathered in a comprehensive repository yet. 
 
-Don't hesitate to contact me should you have any question.
+Don't hesitate to contact the owner of this repo should you have any questions.
 
 [01]: https://github.com/dcyr/Lidar_CHM_Quebec/blob/master/data/other
 [02]: https://github.com/dcyr/Lidar_CHM_Quebec/blob/master/data/CHM_rasters
